@@ -8,7 +8,7 @@ public class Principal {
 
 	public static void main(String[] args) {
 		
-		System.out.println("INICIANDO...");
+		System.out.println("INICIANDO....");
 		
 		br.tools.ColorSensor Cs = new br.tools.ColorSensor();
 		
